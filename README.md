@@ -6,7 +6,7 @@ Para probar esta API, sigue estos pasos:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/Jeidev26/mi-primera-api-rest.git` 
+   git clone https://github.com/Jeidev26/mi-primera-api-rest.git 
 
 2.  **Crea un entorno virtual y actívalo (opcional pero recomendado)**: Una vez descargado, ingresa desde una terminal a la ruta del directorio raíz e instala **`virtualenv`**:
     
